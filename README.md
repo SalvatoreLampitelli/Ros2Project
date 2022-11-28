@@ -1,7 +1,7 @@
-# Ros2Project \
-small example of ros2 capability \
+# Ros2Project 
+small example of ros2 capability 
 
-Passage to be up to date with everyone! \
+Passage to be up to date with everyone! 
 
 # 1 
 Install ROS2 \
